@@ -118,7 +118,7 @@
   <g class="stat-row-1" transform="translate(35, 72)">
     <text class="txt-sans" font-size="11" font-weight="700" fill="#64748b" letter-spacing="0.8">GLOBAL REPOSITORY COMMITS</text>
     <text class="txt-mono" font-size="22" font-weight="800" fill="#ffffff" y="28">2,840+</text>
-    <text class="txt-sans" font-size="10.5" font-weight="600" fill="#00f3ff" x="110" y="26">Across 95 Repos</text>
+    <text class="txt-sans" font-size="10.5" font-weight="600" fill="#00f3ff" x="110" y="26">Across 27 Repos</text>
     <!-- Progress Bar -->
     <rect y="38" width="265" height="4" rx="2" fill="#0f172a"/>
     <rect y="38" width="245" height="4" rx="2" fill="url(#progress-bar-grad)"/>
@@ -128,8 +128,8 @@
   <!-- Row 2: Architecture & Live Deployments -->
   <g class="stat-row-2" transform="translate(35, 144)">
     <text class="txt-sans" font-size="11" font-weight="700" fill="#64748b" letter-spacing="0.8">STACK ARCHITECTURE &amp; DEPLOYMENT</text>
-    <text class="txt-mono" font-size="20" font-weight="800" fill="#00f3ff" y="27" filter="url(#subtle-glow)">Distributed &amp; 3D</text>
-    <text class="txt-sans" font-size="10.5" font-weight="600" fill="#94a3b8" x="180" y="25">Microservices + WebGL</text>
+    <text class="txt-mono" font-size="20" font-weight="800" fill="#00f3ff" y="27" filter="url(#subtle-glow)">Full-Stack &amp; Real-Time</text>
+    <text class="txt-sans" font-size="10.5" font-weight="600" fill="#94a3b8" x="180" y="25">Spring Boot + React</text>
     <!-- Progress Bar -->
     <rect y="38" width="265" height="4" rx="2" fill="#0f172a"/>
     <rect y="38" width="255" height="4" rx="2" fill="url(#progress-bar-grad)"/>
@@ -181,8 +181,8 @@
     <text class="txt-sans" font-size="36" font-weight="900" fill="#ffffff" x="0" y="12" text-anchor="middle" letter-spacing="0.5">S+</text>
 
     <!-- Overall Rank Text Identifier Underneath -->
-    <text class="txt-mono" font-size="11" font-weight="800" fill="#00ff9d" x="0" y="80" text-anchor="middle" letter-spacing="2">STAFF_ARCHITECT</text>
-    <text class="txt-mono" font-size="9" font-weight="600" fill="#64748b" x="0" y="96" text-anchor="middle" letter-spacing="1">RANK: S+ // TOP 0.1%</text>
+    <text class="txt-mono" font-size="11" font-weight="800" fill="#00ff9d" x="0" y="80" text-anchor="middle" letter-spacing="2">SOFTWARE_DEVELOPER</text>
+    <text class="txt-mono" font-size="9" font-weight="600" fill="#64748b" x="0" y="96" text-anchor="middle" letter-spacing="1">RANK: S+ // STAR PERFORMER</text>
   </g>
 
   <!-- ================= BOTTOM TELEMETRY FOOTER ================= -->

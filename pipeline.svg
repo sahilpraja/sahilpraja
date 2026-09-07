@@ -77,7 +77,7 @@
   <!-- ================= TOP HEADER BAR ================= -->
   <g transform="translate(35, 36)">
     <circle class="node-beacon" cx="0" cy="0" r="5" fill="#00ff9d" filter="url(#pipe-glow)"/>
-    <text class="txt-sans" font-size="13" font-weight="800" fill="#94a3b8" x="16" y="4" letter-spacing="1.5">FULL-STACK &amp; 3D GRAPHICS PIPELINE ARCHITECTURE</text>
+    <text class="txt-sans" font-size="13" font-weight="800" fill="#94a3b8" x="16" y="4" letter-spacing="1.5">FULL-STACK &amp; REAL-TIME SYSTEMS ARCHITECTURE</text>
     <text class="txt-mono" font-size="10" font-weight="700" fill="#00f3ff" x="520" y="4" letter-spacing="1.5">[ REAL-TIME DATA STREAM // LATENCY &lt; 20ms ]</text>
   </g>
 
@@ -161,23 +161,23 @@
     <text class="txt-mono" font-size="12" font-weight="800" fill="#00ff9d" x="20" y="31">3D</text>
     
     <text class="txt-mono" font-size="9" font-weight="700" fill="#64748b" x="45" y="24" letter-spacing="1">LAYER 02</text>
-    <text class="txt-sans" font-size="12" font-weight="800" fill="#ffffff" x="45" y="38">3D WEBGL ENGINE</text>
+    <text class="txt-sans" font-size="12" font-weight="800" fill="#ffffff" x="45" y="38">REAL-TIME WEBRTC</text>
 
     <line x1="15" y1="52" x2="165" y2="52" stroke="#1e293b" stroke-width="1"/>
 
     <!-- Spec Pills -->
     <g transform="translate(15, 66)" class="txt-mono" font-size="9.5" font-weight="600">
       <rect width="150" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <text fill="#00ff9d" x="8" y="15">Three.js / Canvas</text>
+      <text fill="#00ff9d" x="8" y="15">WebRTC DataChannels</text>
 
       <rect y="30" width="150" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <text fill="#38bdf8" x="8" y="45">GLSL Custom Shaders</text>
+      <text fill="#38bdf8" x="8" y="45">WebSockets / Real-Time</text>
 
       <rect y="60" width="150" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <text fill="#94a3b8" x="8" y="75">GLTF / Physics Engine</text>
+      <text fill="#94a3b8" x="8" y="75">Peer-to-Peer Screen Share</text>
 
       <rect y="90" width="150" height="22" rx="4" fill="#022c22" stroke="#00ff9d" stroke-width="0.5"/>
-      <text fill="#00ff9d" x="8" y="105">60 FPS // GPU SYNC</text>
+      <text fill="#00ff9d" x="8" y="105">LOW LATENCY // &lt; 30ms</text>
     </g>
   </g>
 
@@ -222,13 +222,13 @@
     <!-- Spec Pills -->
     <g transform="translate(15, 66)" class="txt-mono" font-size="9.5" font-weight="600">
       <rect width="150" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <text fill="#00f3ff" x="8" y="15">Node.js / Express</text>
+      <text fill="#00f3ff" x="8" y="15">Java 21 / Spring Boot</text>
 
       <rect y="30" width="150" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <text fill="#38bdf8" x="8" y="45">NestJS Architecture</text>
+      <text fill="#38bdf8" x="8" y="45">Spring Data JPA / Hibernate</text>
 
       <rect y="60" width="150" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <text fill="#94a3b8" x="8" y="75">Async Event Queues</text>
+      <text fill="#94a3b8" x="8" y="75">RESTful API Services</text>
 
       <rect y="90" width="150" height="22" rx="4" fill="#032b30" stroke="#00f3ff" stroke-width="0.5"/>
       <text fill="#00f3ff" x="8" y="105">FAULT-TOLERANT</text>
