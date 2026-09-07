@@ -282,7 +282,7 @@
     <img src="https://img.shields.io/badge/Email-sahilprajapati739805%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/sahil-prajapati73" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-prajapati73/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
