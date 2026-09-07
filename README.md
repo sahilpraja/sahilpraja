@@ -282,11 +282,11 @@
     <img src="https://img.shields.io/badge/Email-sahilprajapati739805%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sahil-prajapati" target="_blank">
+  <a href="www.linkedin.com/in/sahil-prajapati73" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/sahilpraja" target="_blank">
+  <a href="https://leetcode.com/u/sahil2324/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sahilpraja-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
